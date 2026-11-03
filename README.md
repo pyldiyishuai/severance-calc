@@ -172,7 +172,7 @@ node ../_tools/eval.mjs "file:///<绝对路径>/severance-calc/index.html" "test
 
 ## 七、上线检查清单
 
-- [ ] `index.html` 里所有 `https://DOMAIN` 换成真实域名（canonical / og:url 共 2 处）
+- [ ] `index.html` 里所有 `https://pyldiyishuai.github.io/severance-calc` 换成真实域名（canonical / og:url 共 2 处）
 - [ ] `assets/js/config.js` 里 `APP.SITE.domain`、`APP.SITE.contactEmail` 改掉
 - [ ] `APP.SITE.icp` 填备案号（页脚会自动显示并链接到工信部）
 - [ ] `APP.ADS.provider` 从 `'placeholder'` 改成真实联盟，填 `client` / `slots`

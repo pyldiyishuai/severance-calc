@@ -11,7 +11,7 @@ window.APP = APP;
 APP.SITE = {
   name: '离职补偿金计算器',
   // TODO(上线必改): 换成真实域名，index.html 里的 canonical / og:url 同步改
-  domain: 'https://DOMAIN',
+  domain: 'https://pyldiyishuai.github.io/severance-calc',
   locale: 'zh-CN',
   icp: '',
   contactEmail: 'hello@DOMAIN',
